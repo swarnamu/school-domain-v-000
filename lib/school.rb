@@ -1,6 +1,6 @@
 # code here!
 class School
-  roaster = {}
+  roster = {}
 
   def initialize(school)
     @school = school
